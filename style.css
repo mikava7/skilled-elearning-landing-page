@@ -256,7 +256,7 @@ footer img {
     margin-left: 10rem;
   }
   header {
-    max-width: 70%;
+    max-width: 75%;
     margin-top: -0.5rem;
     margin-left: 10rem;
   }
@@ -279,8 +279,8 @@ footer img {
 
   picture {
     position: absolute;
-    top: -12%;
-    left: 55%;
+    top: -20%;
+    left: 62%;
     z-index: -1;
   }
   .intro-texts {
