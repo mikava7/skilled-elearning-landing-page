@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mikava7/skilled-elearning-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live](https://mikava7.github.io/skilled-elearning-landing-page/)
 
 ## My process
 
